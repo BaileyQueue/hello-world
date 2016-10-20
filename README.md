@@ -1,2 +1,2 @@
 # hello-world
-firstTime
+I am a newbie to github.
